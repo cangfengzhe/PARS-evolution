@@ -1,0 +1,12 @@
+*.rar
+*.csv
+*.xls
+*.xlsx
+data/
+raw_data/
+*.Rproj
+*.fasta
+*.rda
+*.rdata
+.Rproj.user/
+.Rhistory
